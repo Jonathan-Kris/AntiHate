@@ -1,6 +1,8 @@
 # AntiHate
 Aplikasi pendeteksi ujaran kebencian dalam bahasa Indonesia berbasis artificial intelligence.
-This model is fine-tuned from [Into BERT Model](https://github.com/indobenchmark/indonlu) and implemented to GUI using [Python TKinter](https://docs.python.org/3/library/tkinter.html). As for the model itself can be accessed from [Here](https://www.kaggle.com/jonathankristanto/antihate-hatespeech-classifier-model?scriptVersionId=65560081).
+This model is fine-tuned from [IndoBERT Model](https://github.com/indobenchmark/indonlu) and implemented to GUI using [Python TKinter](https://docs.python.org/3/library/tkinter.html). As for the model itself can be accessed from [Here](https://www.kaggle.com/jonathankristanto/antihate-hatespeech-classifier-model?scriptVersionId=65560081).
+
+For the detailed process on how we trained the model you can find it in our notebook on Kaggle [Antihate Hatespeech Classifier Model](https://www.kaggle.com/code/jonathankristanto/antihate-hatespeech-classifier-model?kernelSessionId=65560081)
 
 Created By:
 1. 2301860154 - Jonathan Kristanto
